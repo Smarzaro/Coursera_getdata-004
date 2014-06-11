@@ -13,7 +13,7 @@ The course is (was) avaiable at [Coursera](https://class.coursera.org/getdata-00
 * **`readme.md`** - this file
 * **`run_analysis.R`** - An R script to process the raw data and generate the tidy dataset
 * **`CodeBook.md`** - Description of the variables of the tidy dataset
-* **`Tidy_Dataset.txt`** - A tidy data set as required by the Project Description. It´s the result of the runanalysis.R on the raw data.
+* **`data/Tidy_Dataset.txt`** - A tidy data set as required by the Project Description. It´s the result of the runanalysis.R on the raw data.
 
 ## How to use
 To run the `run_analysis.R` script it´s necessary to extract the raw data (the link is in the Project Description section of this document) on the directory `/data/raw`.
